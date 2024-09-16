@@ -10,10 +10,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
     "@fontsource/outfit": "^5.1.0",
     "@fontsource/roboto": "^5.1.0",
+    "@mui/icons-material": "^6.1.0",
+    "@mui/material": "^6.1.0",
+    "icons": "^1.0.0",
+    "primeicons": "^7.0.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-typewriter-effect": "^1.1.0",
+    "react-typist": "^2.0.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
